@@ -1,6 +1,3 @@
-rm(list = ls())
-options(java.parameters = "-Xmx8000m")
-
 
 library(mailR)
 library(data.table)
